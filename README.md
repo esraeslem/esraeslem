@@ -43,7 +43,7 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
-*Other Tools & Technologies:* Streamlit, Facebook Prophet, Tableau, Seaborn, Flourish, GLM, K-Means, Hugging Face Transformers, Excel (Advanced)
+*Other Tools & Technologies:* Streamlit, Facebook Prophet, Tableau, Seaborn, Flourish, GLM, K-Means, Hugging Face Transformers, Excel 
 
 ---
 
