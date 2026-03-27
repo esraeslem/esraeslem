@@ -1,6 +1,6 @@
 # Hi 👋, I'm Esra Eslem Savaş
 
-*A Statistics & Data Science student from METU Turkey 🇹🇷*
+*A Statistics student from METU Turkey 🇹🇷*
 
 
 ---
