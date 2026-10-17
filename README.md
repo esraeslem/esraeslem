@@ -5,7 +5,7 @@
 
 ---
 
-**🌱 Currently Working on:** Python, R, Scikit-learn, PyTorch, Streamlit, Facebook Prophet
+**🌱 Currently working on:** LLM-based analysis of sustainability disclosures
 
 **💬 Topics to Talk About:** Statistical Modeling, Machine Learning, Business Analytics, AI-Powered Workflows, Data Visualization
 
@@ -43,35 +43,30 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
-*Other Tools & Technologies:* Streamlit, Facebook Prophet, Tableau, Seaborn, Flourish, GLM, K-Means, Hugging Face Transformers, Excel 
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraeslem&show_icons=true&theme=default&hide_border=true&title_color=028090&icon_color=02C39A" alt="Eslem's GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraeslem&layout=compact&hide_border=true&title_color=028090" alt="Top Languages" />
-</p>
+*Other Tools & Technologies:* Streamlit, Prophet, Tableau, Seaborn, Flourish, GLM, K-Means, Hugging Face Transformers, Excel 
 
 ---
 
 ## 🛠️ Featured Projects
 
+* **[AuraSync](https://github.com/esraeslem/AuraSync)**
+
+  Multi-agent wardrobe and styling system (Miuul AI & Data Science Bootcamp capstone). A FastAPI backend with four agents (RFM/CLTV segmentation and association rules, FashionSigLIP visual search, fit and sentiment classifiers, churn modelling) and an LLM concierge that calls them as tools. Trained on public H&M, ModCloth and Mercari data. Working local prototype.
+  *(🐍 Python · ⚡ FastAPI · 🤖 Multi-Agent · 👗 Fashion Analytics)*
+
 * **[TrendFlow-AI](https://github.com/esraeslem/TrendFlow-AI)**
 
-  A B2B supply chain forecasting system using **Facebook Prophet** (95% confidence interval) and the **Newsvendor Model** to optimize order quantities through unit economics. Deployed interactively via Streamlit.
+  A B2B supply chain forecasting system using **Prophet** (95% confidence interval) and the **Newsvendor Model** to optimize order quantities through unit economics. Deployed interactively via Streamlit.
   *(🐍 Python · 📈 Forecasting · 🏭 Supply Chain)*
 
 * **[Sustainable-Basics-Optimization](https://github.com/esraeslem/Sustainable-Basics-Optimization)**
 
-  Modeled body measurements as a Multivariate Normal Distribution and applied **K-Means Clustering** to derive 5–7 sizing profiles, reducing mean fit error by **28%** and cutting fashion returns by **40%**.
+  Simulation study: modeled body measurements as a multivariate normal distribution (1,000 simulated customers) and applied **K-Means clustering** to derive 5 sizes, reducing mean fit error by **28%** (2.94 → 2.1 cm) versus standard S/M/L.
   *(🐍 Python · 📊 Scikit-learn · 👗 Sizing Optimization)*
 
 * **[StyleAI-Fashion-Expert](https://github.com/esraeslem/StyleAI-Fashion-Expert)**
 
-  An AI-powered fashion assistant that provides personalized style recommendations using LLM integration and Python.
+  Rule-based fashion assistant using a YOLOv8 detector. Built with Streamlit.
   *(🐍 Python · 🤖 AI · 👗 Fashion Tech)*
 
 ---
@@ -79,5 +74,3 @@
 
 **📬 Contact:**
 [esraeslem11@gmail.com](mailto:esraeslem11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/esra-eslem-savas-b49980247) | [GitHub](https://github.com/esraeslem)
-
-If you enjoy my profile, don't forget to ⭐ star and follow!
